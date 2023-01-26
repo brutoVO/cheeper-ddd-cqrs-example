@@ -28,3 +28,7 @@ infection.log
 !.yarn/sdks
 !.yarn/versions
 ###< yarn ###
+
+###< Jetbrains ###
+.idea
+###> Jetbrains ###
